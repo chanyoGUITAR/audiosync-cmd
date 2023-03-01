@@ -6,6 +6,15 @@
 
 #### More information on RQA can be discovered [here](https://en.wikipedia.org/wiki/Recurrence_quantification_analysis) on Wikipedia, and a similar project has been documented on this [pdf](http://www.mtg.upf.edu/system/files/publications/Roma-Waspaa-2014.pdf)
 
+# ※Modified for my own use.
+
+I am rewriting this for a guitar solo project I am doing on Youtube.　Thanks to the producer.
+Specifically, I'm changing the process to one where the audio of just the guitar solo is first combined with the video, then replaced with the entire music, and then the video is cut off for the length of that WAV.
+As to why this process is necessary, you might want to take a look at the video.
+- > https://youtube.com/playlist?list=PL0E3ck3lAqT1ze5KnzRZmRp9MZyUA7q6-
+
+This code helped me a great deal.
+
 ## setup
 #### Python 2
 `pip install -r requirements.txt`
